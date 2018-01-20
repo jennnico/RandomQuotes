@@ -1,0 +1,57 @@
+body{
+  margin:0;
+  padding:0;
+  background: #041751;
+  color: #041751;
+  font-family: 'Bubbler One', cursive;
+  text-align: center;
+}
+
+/*A quote to Brighten..*/
+#heading{
+  margin-top: 3rem;
+  color: #FFF;
+}
+
+/*Main text where quotes appear*/
+h2{
+  font-size: 60px;
+  margin-top: 2rem;
+}
+
+/*Hide quotation mark until user clicks*/
+#icon{
+  visibility: hidden;
+}
+
+/*White box*/
+.container{
+  text-align: center;
+  margin-top: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 0.5rem;
+  background: #FFF;
+}
+
+.btn{
+  margin-top: 8rem;
+  color: #FFF;
+  background: #041751;
+  padding: 0.5rem;
+  font-size: 1.25rem;
+  border: solid;
+  border-color: #041751;
+  border-width: 5px;
+}
+
+/*social media*/
+.media ul {
+    margin-top: 8rem;
+    list-style-type: none;  
+}
+
+.media li{
+  display: block;
+  float: right;
+  padding: 1rem;
+}  
