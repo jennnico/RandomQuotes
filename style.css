@@ -28,8 +28,6 @@ h2{
 .container{
   text-align: center;
   margin-top: 5rem;
-  margin-left: 5rem;
-  margin-right: 5rem;
   padding-top: 2rem;
   padding-bottom: 0.5rem;
   background: #FFF;
@@ -54,6 +52,6 @@ h2{
 
 .media li{
   display: block;
-  float: left;
+  float: right;
   padding: 1rem;
 }  
